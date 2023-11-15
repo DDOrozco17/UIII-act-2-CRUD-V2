@@ -11,7 +11,6 @@ CREATE TABLE tbl_proveedor(
   producto_principal VARCHAR(100),
   fecha_entrega date,
   total_productos INT(11) 
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 DESCRIBE tbl_proveedor;
