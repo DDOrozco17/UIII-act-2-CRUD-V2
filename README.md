@@ -1,7 +1,7 @@
 # UIII-act-2-CRUD-V2
 Empresa: Papelería Tabla: Proveedor
 
-## Tabla Index
+## Index
 ![Index](https://github.com/DDOrozco17/UIII-act-2-CRUD-V2/blob/main/index.png)
 
 ## Base Datos
